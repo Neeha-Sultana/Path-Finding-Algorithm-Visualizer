@@ -48,14 +48,6 @@ Below is how the DFS works
 Below is the demo
 ![dikstra](https://user-images.githubusercontent.com/39909903/91166789-c0552380-e687-11ea-9e87-e023e381eb06.PNG)
 
-### A* (A-Star)
-- A* is a modification of Dijkstra's Algorithm that is optimized for a single destination.
-- Dijkstra's Algorithm can find paths to all locations; A* finds paths to one location. It prioritizes paths that seem to be leading closer to a goal.
-- In a game, we could set costs to be attracted or discouraged in going near some objects : how useful it is for an AI.
-- It is more or less the golden ticket or industry standard algorithm for all applications finding directions between two locations.
-Below is the demo of application:
-![a](https://user-images.githubusercontent.com/39909903/91166759-b59a8e80-e687-11ea-8ed7-faa0d453fe71.PNG)
-
 Now Let's drive into the code ..
 ------------------
 ## Getting Started ..
