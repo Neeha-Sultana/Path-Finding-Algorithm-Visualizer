@@ -175,24 +175,9 @@ The build is minified and the filenames include the hashes.<br>
 Your app is ready to be deployed!
 
 
-I deploy this app in netlify. 
+I deployed this app in netlify. 
 You can check out here : [https://path-algorithm-visualizer-neeha.netlify.app/)
 
 
 
 
-
-
--------------------------------
-
-----------------------------
-
-
-
-#
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
