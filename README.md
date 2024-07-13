@@ -19,7 +19,8 @@ Green box is the starting node and Red box is the end node.
 You can see the various algorithms below to visualize.
 Here  design of  grid is done using tables and set first node and second node colors using CSS properties.
 ![grid](![image](https://github.com/user-attachments/assets/c9f2a652-78ce-464e-84eb-6c71f140dc60)
-)
+)![full](https://github.com/user-attachments/assets/10f44e5a-bde9-469c-99dd-4b2b521240d1)
+
 
 
 ## Intro ..
