@@ -5,8 +5,7 @@
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 
 ---------------
-### check out live demo [HERE]([https://path-algorithm-visualizer-neeha.netlify.app/]
-
+### check out live demo [HERE](https://path-algorithm-visualizer-neeha.netlify.app/)
 ##### DFS visualization demo:
 
    ![dfs](https://user-images.githubusercontent.com/39909903/91169511-5723df00-e68c-11ea-87ed-896412c347b2.PNG)
