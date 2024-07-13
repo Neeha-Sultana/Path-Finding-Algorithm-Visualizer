@@ -8,7 +8,8 @@
 ### Check out live demo [HERE](https://path-algorithm-visualizer-neeha.netlify.app/)
 ##### DFS visualization demo:
 
-   ![dfs](https://user-images.githubusercontent.com/39909903/91169511-5723df00-e68c-11ea-87ed-896412c347b2.PNG)
+![dfs](https://github.com/user-attachments/assets/4a9563f2-4c44-4108-a1d0-9aa1bd1c508e)
+tent.com/39909903/91169511-5723df00-e68c-11ea-87ed-896412c347b2.PNG)
    
 
 
@@ -18,8 +19,7 @@ This app is entirely built in react and below is the how the interface looks lik
 Green box is the starting node and Red box is the end node.
 You can see the various algorithms below to visualize.
 Here  design of  grid is done using tables and set first node and second node colors using CSS properties.
-![grid](![image](https://github.com/user-attachments/assets/c9f2a652-78ce-464e-84eb-6c71f140dc60)
-)![full](https://github.com/user-attachments/assets/10f44e5a-bde9-469c-99dd-4b2b521240d1)
+![full](https://github.com/user-attachments/assets/10f44e5a-bde9-469c-99dd-4b2b521240d1)
 
 
 
