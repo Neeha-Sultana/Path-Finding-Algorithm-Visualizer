@@ -18,7 +18,8 @@ This app is entirely built in react and below is the how the interface looks lik
 Green box is the starting node and Red box is the end node.
 You can see the various algorithms below to visualize.
 Here  design of  grid is done using tables and set first node and second node colors using CSS properties.
-![grid](https://user-images.githubusercontent.com/39909903/91166796-c519d780-e687-11ea-9b16-ac0504aa3a49.PNG)
+![grid](![image](https://github.com/user-attachments/assets/c9f2a652-78ce-464e-84eb-6c71f140dc60)
+)
 
 
 ## Intro ..
