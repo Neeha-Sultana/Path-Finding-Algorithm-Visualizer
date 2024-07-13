@@ -1,0 +1,75 @@
+.grid-container {
+    margin: 10% auto;
+  }
+  
+  .grid {
+    white-space: pre;
+  }
+  
+  button {
+    margin: 2px;
+  }
+  /* PathfindingVisualizer.css */
+
+/* PathfindingVisualizer.css */
+
+/* PathfindingVisualizer.css */
+
+.navbar-brand {
+  font-size: 2.5rem; /* Increase font size */
+  font-weight: bold; /* Make it bold */
+  color: #3498db; /* Stylish color (a shade of blue) */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.8); /* Text shadow for depth */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  letter-spacing: 1px; /* Adjust letter spacing */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.navbar-brand:hover {
+  transform: scale(1.05); /* Scale up on hover for emphasis */
+  color: #2980b9; /* Darker shade of blue on hover */
+}
+
+ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Optional: Remove default padding */
+}
+/* PathfindingVisualizer.css */
+
+/* PathfindingVisualizer.css */
+
+.navbar-nav .nav-link {
+  font-size: 1.2rem; /* Adjust font size */
+  font-weight: bold; /* Make it bold */
+  color: #34495e; /* Deep blue color */
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Subtle text shadow */
+  transition: all 0.3s ease; /* Smooth transition for hover effects */
+}
+
+.navbar-nav .nav-link:hover {
+  color: #2980b9; /* Lighter blue on hover */
+}
+/* PathfindingVisualizer.css */
+
+.heading {
+  margin-bottom: 10px; /* Adjust margin bottom as needed */
+}
+
+.grid-container {
+  margin-top: 0; /* Remove top margin */
+  padding-top: 0; /* Remove top padding */
+  margin-bottom: 0; /* Remove bottom margin */
+  padding-bottom: 0; /* Remove bottom padding */
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.algorithm-buttons {
+  margin-bottom: 10px; /* Adjust margin bottom as needed */
+}
