@@ -5,7 +5,7 @@
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) 
 
 ---------------
-### check out live demo [HERE](https://prudhvignv.github.io/pathFinderVisualizer/)
+### check out live demo [HERE]([https://path-algorithm-visualizer-neeha.netlify.app/]
 
 ##### DFS visualization demo:
 
